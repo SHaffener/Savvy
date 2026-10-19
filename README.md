@@ -9,7 +9,7 @@ A hub for software studio creators and their start up.
 * Co-CCO: Vesa Hoxha
 ---
 ## MVP
-A user enters or selects a grocery product, compares available prices, identifies the cheaper option, and adds it to a shopping list while keeping track of the budget. 
+A user enters or selects a grocery product, compares available prices, identifies the cheaper option, and adds it to a shopping list while keeping track of the budget.
 ---
 ## List of features
 1) Compare prices of the same product across a selected number of stores
