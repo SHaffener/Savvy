@@ -29,7 +29,6 @@ using opensource backend to host user info
 
 --
 ## AI (in database)
-Used to recommend based on purchase history
 --
 ## User Info (in database)
 - email
@@ -43,5 +42,5 @@ Used to recommend based on purchase history
     - price
     - item discription
 --
-
+## system architecture
 
