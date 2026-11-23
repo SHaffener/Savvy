@@ -27,22 +27,20 @@ using opensource backend to host user info
 - clone repository
 - write a how to for the backend server
 
---
 ## AI (in database)
 - Recommends based on purchase history
---
 ## User Info (in database)
 - email
 - password
 - purchase history
 
---
+
 ## Store prices (in database)
 - holds store prices for comparison
     - store
     - location
     - price
     - item discription
---
+  
 ## System architecture
 
