@@ -29,10 +29,12 @@ using opensource backend to host user info
 
 --
 ## AI (in database)
+- Recommends based on purchase history
 --
 ## User Info (in database)
 - email
 - password
+- purchase history
 
 --
 ## Store prices (in database)
@@ -42,5 +44,5 @@ using opensource backend to host user info
     - price
     - item discription
 --
-## system architecture
+## System architecture
 
