@@ -20,7 +20,7 @@ A user enters or selects a grocery product, compares available prices, identifie
 6) Full grocery catalogs throughout many stores
 
 ---
-## backend
+## Backend
 using opensource backend to host user info
 - writes in postgreSQL
 - clone repository
