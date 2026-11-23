@@ -23,6 +23,7 @@ A user enters or selects a grocery product, compares available prices, identifie
 ## Backend
 using opensource backend to host user info
 - writes in postgreSQL
+  - Ref for writing in postgreSQL: https://www.w3schools.com/postgresql/index.php
 - clone repository
 - write a how to for the backend server
 
