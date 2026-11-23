@@ -28,4 +28,20 @@ using opensource backend to host user info
 - write a how to for the backend server
 
 --
+## AI (in database)
+Used to recommend based on purchase history
+--
+## User Info (in database)
+- email
+- password
+
+--
+## Store prices (in database)
+- holds store prices for comparison
+    - store
+    - location
+    - price
+    - item discription
+--
+
 
