@@ -44,4 +44,4 @@ using opensource backend to host user info
     - item discription
   
 ## System architecture
-<img width="800" height="1000" alt="IMG_0325" src="https://github.com/user-attachments/assets/edbf16b2-c3c6-4e4b-a0ad-d7e24c3da109" />
+<img width="650" height="800" alt="IMG_0325" src="https://github.com/user-attachments/assets/edbf16b2-c3c6-4e4b-a0ad-d7e24c3da109" />
