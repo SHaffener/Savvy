@@ -1,3 +1,4 @@
+
 # Savvy
 A hub for software studio creators and their start up.
 ---
@@ -43,4 +44,4 @@ using opensource backend to host user info
     - item discription
   
 ## System architecture
-
+<img width="1314" height="1566" alt="IMG_0325" src="https://github.com/user-attachments/assets/edbf16b2-c3c6-4e4b-a0ad-d7e24c3da109" />
